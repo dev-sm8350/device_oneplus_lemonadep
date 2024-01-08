@@ -23,6 +23,9 @@ PRODUCT_MODEL := LE2125
 
 PRODUCT_GMS_CLIENTID_BASE := android-oneplus
 
+# Boot animation resolution.
+TARGET_BOOT_ANIMATION_RES := 1920
+
 PRODUCT_BUILD_PROP_OVERRIDES += \
     BuildDesc="OnePlus9Pro-user 14 UKQ1.230924.001 R.1d5a0be-1-4ffee release-keys" \
     BuildFingerprint=OnePlus/OnePlus9Pro/OnePlus9Pro:14/UKQ1.230924.001/R.1d5a0be-1-4ffee:user/release-keys \
