@@ -1002,6 +1002,7 @@ odm/vendor/firmware/iris5_ccf2.fw
 odm/etc/nfc/libnfc-mtp-SN100.conf_19815:vendor/etc/libnfc-nxp.conf
 odm/etc/nfc/libnfc-nci.conf_19815:vendor/etc/libnfc-nci.conf
 odm/etc/nfc/sn100u.bin_sn100t_fw_01_10_57:vendor/firmware/sn100u.bin
+vendor/etc/libnfc-nxp_RF.conf
 
 # Secure element
 odm/bin/hw/vendor.qti.secure_element@1.2-service
