@@ -41,6 +41,7 @@ $(call soong_config_set,lineage_health,charging_control_charging_path,/sys/class
 
 # NFC
 PRODUCT_PACKAGES += \
+    $(RELEASE_PACKAGE_NFC_STACK) \
     android.hardware.nfc-service.nxp \
     com.android.nfc_extras \
     Tag
