@@ -2,9 +2,9 @@
 ## are from OnePlus 9 Pro (LE2125_14.0.0.1901(EX01)).
 
 # Exceptions:
-# abl.img: from OnePlus 9 Pro (LE2125_13.1.0.593(EX01))
+# abl.img: Remove orange status boot message
 
-abl.img;AB|4875db77f095947337b42d6e48f7a7510f56f4ed
+abl.img;AB|b7fb8f62625cb112278d23ce27e600480aded80b
 aop.img;AB
 bluetooth.img;AB
 cpucp.img;AB
